@@ -1,0 +1,26 @@
+version: '3.5'
+
+services:
+  rmqbroker:
+    image: foxiswho/rocketmq:4.7.0
+#    image: registry.cn-hangzhou.aliyuncs.com/foxiswho/rocketmq:4.7.0
+    container_name: rmqbroker
+    ports:
+      - 10909:10909
+      - 10911:10911
+    volumes:
+      - ./logs:/opt/logs
+      - ./store:/opt/store
+      - ./brokerconf/broker.conf:/etc/rocketmq/broker.conf
+    environment:
+        JAVA_OPT_EXT: "-Duser.home=/opt -Xms16G -Xmx16G -Xmn8G"
+    command: ["sh","mqbroker","-c","/etc/rocketmq/broker.conf","-n","$(rmqnamesrvHostIP):9876","autoCreateTopicEnable=true"]
+    networks:
+      rmq:
+        aliases:
+          - rmqbroker
+ 
+networks:
+  rmq:
+    name: rmq
+    driver: bridge

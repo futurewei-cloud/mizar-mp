@@ -1,0 +1,760 @@
+Thread[main,5,main]233 ms
+Thread[main,5,main]ACA time: 10373326 ns
+Thread[main,5,main]PENDING
+Thread[main,5,main]8 ms
+Thread[main,5,main]ACA time: 28674 ns
+Thread[main,5,main]FAILURE
+Thread[main,5,main]8 ms
+Thread[main,5,main]ACA time: 23829 ns
+Thread[main,5,main]FAILURE
+Thread[main,5,main]7 ms
+Thread[main,5,main]ACA time: 28962 ns
+Thread[main,5,main]FAILURE
+Thread[main,5,main]7 ms
+Thread[main,5,main]ACA time: 46079 ns
+Thread[main,5,main]FAILURE
+Thread[main,5,main]16 ms
+Thread[main,5,main]ACA time: 9548375 ns
+Thread[main,5,main]PENDING
+Thread[main,5,main]7 ms
+Thread[main,5,main]ACA time: 31484 ns
+Thread[main,5,main]FAILURE
+Thread[main,5,main]7 ms
+Thread[main,5,main]ACA time: 31963 ns
+Thread[main,5,main]FAILURE
+Thread[main,5,main]6 ms
+Thread[main,5,main]ACA time: 28570 ns
+Thread[main,5,main]FAILURE
+Thread[main,5,main]6 ms
+Thread[main,5,main]ACA time: 29053 ns
+Thread[main,5,main]FAILURE
+Thread[main,5,main]16 ms
+Thread[main,5,main]ACA time: 9707686 ns
+Thread[main,5,main]PENDING
+Thread[main,5,main]8 ms
+Thread[main,5,main]ACA time: 53901 ns
+Thread[main,5,main]FAILURE
+Thread[main,5,main]7 ms
+Thread[main,5,main]ACA time: 34130 ns
+Thread[main,5,main]FAILURE
+Thread[main,5,main]6 ms
+Thread[main,5,main]ACA time: 28942 ns
+Thread[main,5,main]FAILURE
+Thread[main,5,main]6 ms
+Thread[main,5,main]ACA time: 28259 ns
+Thread[main,5,main]FAILURE
+Thread[main,5,main]16 ms
+Thread[main,5,main]ACA time: 9883889 ns
+Thread[main,5,main]PENDING
+Thread[main,5,main]15 ms
+Thread[main,5,main]ACA time: 37974 ns
+Thread[main,5,main]FAILURE
+Aug 25, 2020 3:07:32 PM io.grpc.internal.ManagedChannelOrphanWrapper$ManagedChannelReference cleanQueue
+SEVERE: *~*~*~ Channel ManagedChannelImpl{logId=13, target=10.213.43.187:50001} was not shutdown properly!!! ~*~*~*
+    Make sure to call shutdown()/shutdownNow() and wait until awaitTermination() returns true.
+java.lang.RuntimeException: ManagedChannel allocation site
+	at io.grpc.internal.ManagedChannelOrphanWrapper$ManagedChannelReference.<init>(ManagedChannelOrphanWrapper.java:93)
+	at io.grpc.internal.ManagedChannelOrphanWrapper.<init>(ManagedChannelOrphanWrapper.java:53)
+	at io.grpc.internal.ManagedChannelOrphanWrapper.<init>(ManagedChannelOrphanWrapper.java:44)
+	at io.grpc.internal.AbstractManagedChannelImplBuilder.build(AbstractManagedChannelImplBuilder.java:518)
+	at io.grpc.examples.helloworld.GrpcClient.main(GrpcClient.java:25)
+
+Aug 25, 2020 3:07:32 PM io.grpc.internal.ManagedChannelOrphanWrapper$ManagedChannelReference cleanQueue
+SEVERE: *~*~*~ Channel ManagedChannelImpl{logId=53, target=10.213.43.187:50001} was not shutdown properly!!! ~*~*~*
+    Make sure to call shutdown()/shutdownNow() and wait until awaitTermination() returns true.
+java.lang.RuntimeException: ManagedChannel allocation site
+	at io.grpc.internal.ManagedChannelOrphanWrapper$ManagedChannelReference.<init>(ManagedChannelOrphanWrapper.java:93)
+	at io.grpc.internal.ManagedChannelOrphanWrapper.<init>(ManagedChannelOrphanWrapper.java:53)
+	at io.grpc.internal.ManagedChannelOrphanWrapper.<init>(ManagedChannelOrphanWrapper.java:44)
+	at io.grpc.internal.AbstractManagedChannelImplBuilder.build(AbstractManagedChannelImplBuilder.java:518)
+	at io.grpc.examples.helloworld.GrpcClient.main(GrpcClient.java:25)
+
+Aug 25, 2020 3:07:32 PM io.grpc.internal.ManagedChannelOrphanWrapper$ManagedChannelReference cleanQueue
+SEVERE: *~*~*~ Channel ManagedChannelImpl{logId=1, target=10.213.43.187:50001} was not shutdown properly!!! ~*~*~*
+    Make sure to call shutdown()/shutdownNow() and wait until awaitTermination() returns true.
+java.lang.RuntimeException: ManagedChannel allocation site
+	at io.grpc.internal.ManagedChannelOrphanWrapper$ManagedChannelReference.<init>(ManagedChannelOrphanWrapper.java:93)
+	at io.grpc.internal.ManagedChannelOrphanWrapper.<init>(ManagedChannelOrphanWrapper.java:53)
+	at io.grpc.internal.ManagedChannelOrphanWrapper.<init>(ManagedChannelOrphanWrapper.java:44)
+	at io.grpc.internal.AbstractManagedChannelImplBuilder.build(AbstractManagedChannelImplBuilder.java:518)
+	at io.grpc.examples.helloworld.GrpcClient.main(GrpcClient.java:25)
+
+Aug 25, 2020 3:07:32 PM io.grpc.internal.ManagedChannelOrphanWrapper$ManagedChannelReference cleanQueue
+SEVERE: *~*~*~ Channel ManagedChannelImpl{logId=57, target=10.213.43.187:50001} was not shutdown properly!!! ~*~*~*
+    Make sure to call shutdown()/shutdownNow() and wait until awaitTermination() returns true.
+java.lang.RuntimeException: ManagedChannel allocation site
+	at io.grpc.internal.ManagedChannelOrphanWrapper$ManagedChannelReference.<init>(ManagedChannelOrphanWrapper.java:93)
+	at io.grpc.internal.ManagedChannelOrphanWrapper.<init>(ManagedChannelOrphanWrapper.java:53)
+	at io.grpc.internal.ManagedChannelOrphanWrapper.<init>(ManagedChannelOrphanWrapper.java:44)
+	at io.grpc.internal.AbstractManagedChannelImplBuilder.build(AbstractManagedChannelImplBuilder.java:518)
+	at io.grpc.examples.helloworld.GrpcClient.main(GrpcClient.java:25)
+
+Aug 25, 2020 3:07:32 PM io.grpc.internal.ManagedChannelOrphanWrapper$ManagedChannelReference cleanQueue
+SEVERE: *~*~*~ Channel ManagedChannelImpl{logId=45, target=10.213.43.187:50001} was not shutdown properly!!! ~*~*~*
+    Make sure to call shutdown()/shutdownNow() and wait until awaitTermination() returns true.
+java.lang.RuntimeException: ManagedChannel allocation site
+	at io.grpc.internal.ManagedChannelOrphanWrapper$ManagedChannelReference.<init>(ManagedChannelOrphanWrapper.java:93)
+	at io.grpc.internal.ManagedChannelOrphanWrapper.<init>(ManagedChannelOrphanWrapper.java:53)
+	at io.grpc.internal.ManagedChannelOrphanWrapper.<init>(ManagedChannelOrphanWrapper.java:44)
+	at io.grpc.internal.AbstractManagedChannelImplBuilder.build(AbstractManagedChannelImplBuilder.java:518)
+	at io.grpc.examples.helloworld.GrpcClient.main(GrpcClient.java:25)
+
+Aug 25, 2020 3:07:32 PM io.grpc.internal.ManagedChannelOrphanWrapper$ManagedChannelReference cleanQueue
+SEVERE: *~*~*~ Channel ManagedChannelImpl{logId=41, target=10.213.43.187:50001} was not shutdown properly!!! ~*~*~*
+    Make sure to call shutdown()/shutdownNow() and wait until awaitTermination() returns true.
+java.lang.RuntimeException: ManagedChannel allocation site
+	at io.grpc.internal.ManagedChannelOrphanWrapper$ManagedChannelReference.<init>(ManagedChannelOrphanWrapper.java:93)
+	at io.grpc.internal.ManagedChannelOrphanWrapper.<init>(ManagedChannelOrphanWrapper.java:53)
+	at io.grpc.internal.ManagedChannelOrphanWrapper.<init>(ManagedChannelOrphanWrapper.java:44)
+	at io.grpc.internal.AbstractManagedChannelImplBuilder.build(AbstractManagedChannelImplBuilder.java:518)
+	at io.grpc.examples.helloworld.GrpcClient.main(GrpcClient.java:25)
+
+Aug 25, 2020 3:07:32 PM io.grpc.internal.ManagedChannelOrphanWrapper$ManagedChannelReference cleanQueue
+SEVERE: *~*~*~ Channel ManagedChannelImpl{logId=29, target=10.213.43.187:50001} was not shutdown properly!!! ~*~*~*
+    Make sure to call shutdown()/shutdownNow() and wait until awaitTermination() returns true.
+java.lang.RuntimeException: ManagedChannel allocation site
+	at io.grpc.internal.ManagedChannelOrphanWrapper$ManagedChannelReference.<init>(ManagedChannelOrphanWrapper.java:93)
+	at io.grpc.internal.ManagedChannelOrphanWrapper.<init>(ManagedChannelOrphanWrapper.java:53)
+	at io.grpc.internal.ManagedChannelOrphanWrapper.<init>(ManagedChannelOrphanWrapper.java:44)
+	at io.grpc.internal.AbstractManagedChannelImplBuilder.build(AbstractManagedChannelImplBuilder.java:518)
+	at io.grpc.examples.helloworld.GrpcClient.main(GrpcClient.java:25)
+
+Aug 25, 2020 3:07:32 PM io.grpc.internal.ManagedChannelOrphanWrapper$ManagedChannelReference cleanQueue
+SEVERE: *~*~*~ Channel ManagedChannelImpl{logId=9, target=10.213.43.187:50001} was not shutdown properly!!! ~*~*~*
+    Make sure to call shutdown()/shutdownNow() and wait until awaitTermination() returns true.
+java.lang.RuntimeException: ManagedChannel allocation site
+	at io.grpc.internal.ManagedChannelOrphanWrapper$ManagedChannelReference.<init>(ManagedChannelOrphanWrapper.java:93)
+	at io.grpc.internal.ManagedChannelOrphanWrapper.<init>(ManagedChannelOrphanWrapper.java:53)
+	at io.grpc.internal.ManagedChannelOrphanWrapper.<init>(ManagedChannelOrphanWrapper.java:44)
+	at io.grpc.internal.AbstractManagedChannelImplBuilder.build(AbstractManagedChannelImplBuilder.java:518)
+	at io.grpc.examples.helloworld.GrpcClient.main(GrpcClient.java:25)
+
+Aug 25, 2020 3:07:32 PM io.grpc.internal.ManagedChannelOrphanWrapper$ManagedChannelReference cleanQueue
+SEVERE: *~*~*~ Channel ManagedChannelImpl{logId=5, target=10.213.43.187:50001} was not shutdown properly!!! ~*~*~*
+    Make sure to call shutdown()/shutdownNow() and wait until awaitTermination() returns true.
+java.lang.RuntimeException: ManagedChannel allocation site
+	at io.grpc.internal.ManagedChannelOrphanWrapper$ManagedChannelReference.<init>(ManagedChannelOrphanWrapper.java:93)
+	at io.grpc.internal.ManagedChannelOrphanWrapper.<init>(ManagedChannelOrphanWrapper.java:53)
+	at io.grpc.internal.ManagedChannelOrphanWrapper.<init>(ManagedChannelOrphanWrapper.java:44)
+	at io.grpc.internal.AbstractManagedChannelImplBuilder.build(AbstractManagedChannelImplBuilder.java:518)
+	at io.grpc.examples.helloworld.GrpcClient.main(GrpcClient.java:25)
+
+Aug 25, 2020 3:07:32 PM io.grpc.internal.ManagedChannelOrphanWrapper$ManagedChannelReference cleanQueue
+SEVERE: *~*~*~ Channel ManagedChannelImpl{logId=25, target=10.213.43.187:50001} was not shutdown properly!!! ~*~*~*
+    Make sure to call shutdown()/shutdownNow() and wait until awaitTermination() returns true.
+java.lang.RuntimeException: ManagedChannel allocation site
+	at io.grpc.internal.ManagedChannelOrphanWrapper$ManagedChannelReference.<init>(ManagedChannelOrphanWrapper.java:93)
+	at io.grpc.internal.ManagedChannelOrphanWrapper.<init>(ManagedChannelOrphanWrapper.java:53)
+	at io.grpc.internal.ManagedChannelOrphanWrapper.<init>(ManagedChannelOrphanWrapper.java:44)
+	at io.grpc.internal.AbstractManagedChannelImplBuilder.build(AbstractManagedChannelImplBuilder.java:518)
+	at io.grpc.examples.helloworld.GrpcClient.main(GrpcClient.java:25)
+
+Aug 25, 2020 3:07:32 PM io.grpc.internal.ManagedChannelOrphanWrapper$ManagedChannelReference cleanQueue
+SEVERE: *~*~*~ Channel ManagedChannelImpl{logId=17, target=10.213.43.187:50001} was not shutdown properly!!! ~*~*~*
+    Make sure to call shutdown()/shutdownNow() and wait until awaitTermination() returns true.
+java.lang.RuntimeException: ManagedChannel allocation site
+	at io.grpc.internal.ManagedChannelOrphanWrapper$ManagedChannelReference.<init>(ManagedChannelOrphanWrapper.java:93)
+	at io.grpc.internal.ManagedChannelOrphanWrapper.<init>(ManagedChannelOrphanWrapper.java:53)
+	at io.grpc.internal.ManagedChannelOrphanWrapper.<init>(ManagedChannelOrphanWrapper.java:44)
+	at io.grpc.internal.AbstractManagedChannelImplBuilder.build(AbstractManagedChannelImplBuilder.java:518)
+	at io.grpc.examples.helloworld.GrpcClient.main(GrpcClient.java:25)
+
+Aug 25, 2020 3:07:32 PM io.grpc.internal.ManagedChannelOrphanWrapper$ManagedChannelReference cleanQueue
+SEVERE: *~*~*~ Channel ManagedChannelImpl{logId=37, target=10.213.43.187:50001} was not shutdown properly!!! ~*~*~*
+    Make sure to call shutdown()/shutdownNow() and wait until awaitTermination() returns true.
+java.lang.RuntimeException: ManagedChannel allocation site
+	at io.grpc.internal.ManagedChannelOrphanWrapper$ManagedChannelReference.<init>(ManagedChannelOrphanWrapper.java:93)
+	at io.grpc.internal.ManagedChannelOrphanWrapper.<init>(ManagedChannelOrphanWrapper.java:53)
+	at io.grpc.internal.ManagedChannelOrphanWrapper.<init>(ManagedChannelOrphanWrapper.java:44)
+	at io.grpc.internal.AbstractManagedChannelImplBuilder.build(AbstractManagedChannelImplBuilder.java:518)
+	at io.grpc.examples.helloworld.GrpcClient.main(GrpcClient.java:25)
+
+Aug 25, 2020 3:07:32 PM io.grpc.internal.ManagedChannelOrphanWrapper$ManagedChannelReference cleanQueue
+SEVERE: *~*~*~ Channel ManagedChannelImpl{logId=61, target=10.213.43.187:50001} was not shutdown properly!!! ~*~*~*
+    Make sure to call shutdown()/shutdownNow() and wait until awaitTermination() returns true.
+java.lang.RuntimeException: ManagedChannel allocation site
+	at io.grpc.internal.ManagedChannelOrphanWrapper$ManagedChannelReference.<init>(ManagedChannelOrphanWrapper.java:93)
+	at io.grpc.internal.ManagedChannelOrphanWrapper.<init>(ManagedChannelOrphanWrapper.java:53)
+	at io.grpc.internal.ManagedChannelOrphanWrapper.<init>(ManagedChannelOrphanWrapper.java:44)
+	at io.grpc.internal.AbstractManagedChannelImplBuilder.build(AbstractManagedChannelImplBuilder.java:518)
+	at io.grpc.examples.helloworld.GrpcClient.main(GrpcClient.java:25)
+
+Aug 25, 2020 3:07:32 PM io.grpc.internal.ManagedChannelOrphanWrapper$ManagedChannelReference cleanQueue
+SEVERE: *~*~*~ Channel ManagedChannelImpl{logId=21, target=10.213.43.187:50001} was not shutdown properly!!! ~*~*~*
+    Make sure to call shutdown()/shutdownNow() and wait until awaitTermination() returns true.
+java.lang.RuntimeException: ManagedChannel allocation site
+	at io.grpc.internal.ManagedChannelOrphanWrapper$ManagedChannelReference.<init>(ManagedChannelOrphanWrapper.java:93)
+	at io.grpc.internal.ManagedChannelOrphanWrapper.<init>(ManagedChannelOrphanWrapper.java:53)
+	at io.grpc.internal.ManagedChannelOrphanWrapper.<init>(ManagedChannelOrphanWrapper.java:44)
+	at io.grpc.internal.AbstractManagedChannelImplBuilder.build(AbstractManagedChannelImplBuilder.java:518)
+	at io.grpc.examples.helloworld.GrpcClient.main(GrpcClient.java:25)
+
+Aug 25, 2020 3:07:32 PM io.grpc.internal.ManagedChannelOrphanWrapper$ManagedChannelReference cleanQueue
+SEVERE: *~*~*~ Channel ManagedChannelImpl{logId=33, target=10.213.43.187:50001} was not shutdown properly!!! ~*~*~*
+    Make sure to call shutdown()/shutdownNow() and wait until awaitTermination() returns true.
+java.lang.RuntimeException: ManagedChannel allocation site
+	at io.grpc.internal.ManagedChannelOrphanWrapper$ManagedChannelReference.<init>(ManagedChannelOrphanWrapper.java:93)
+	at io.grpc.internal.ManagedChannelOrphanWrapper.<init>(ManagedChannelOrphanWrapper.java:53)
+	at io.grpc.internal.ManagedChannelOrphanWrapper.<init>(ManagedChannelOrphanWrapper.java:44)
+	at io.grpc.internal.AbstractManagedChannelImplBuilder.build(AbstractManagedChannelImplBuilder.java:518)
+	at io.grpc.examples.helloworld.GrpcClient.main(GrpcClient.java:25)
+
+Aug 25, 2020 3:07:32 PM io.grpc.internal.ManagedChannelOrphanWrapper$ManagedChannelReference cleanQueue
+SEVERE: *~*~*~ Channel ManagedChannelImpl{logId=49, target=10.213.43.187:50001} was not shutdown properly!!! ~*~*~*
+    Make sure to call shutdown()/shutdownNow() and wait until awaitTermination() returns true.
+java.lang.RuntimeException: ManagedChannel allocation site
+	at io.grpc.internal.ManagedChannelOrphanWrapper$ManagedChannelReference.<init>(ManagedChannelOrphanWrapper.java:93)
+	at io.grpc.internal.ManagedChannelOrphanWrapper.<init>(ManagedChannelOrphanWrapper.java:53)
+	at io.grpc.internal.ManagedChannelOrphanWrapper.<init>(ManagedChannelOrphanWrapper.java:44)
+	at io.grpc.internal.AbstractManagedChannelImplBuilder.build(AbstractManagedChannelImplBuilder.java:518)
+	at io.grpc.examples.helloworld.GrpcClient.main(GrpcClient.java:25)
+
+Thread[main,5,main]7 ms
+Thread[main,5,main]ACA time: 35892 ns
+Thread[main,5,main]FAILURE
+Thread[main,5,main]6 ms
+Thread[main,5,main]ACA time: 49819 ns
+Thread[main,5,main]FAILURE
+Thread[main,5,main]8 ms
+Thread[main,5,main]ACA time: 24014 ns
+Thread[main,5,main]FAILURE
+Thread[main,5,main]15 ms
+Thread[main,5,main]ACA time: 9408518 ns
+Thread[main,5,main]PENDING
+Thread[main,5,main]7 ms
+Thread[main,5,main]ACA time: 34732 ns
+Thread[main,5,main]FAILURE
+Thread[main,5,main]5 ms
+Thread[main,5,main]ACA time: 23097 ns
+Thread[main,5,main]FAILURE
+Thread[main,5,main]5 ms
+Thread[main,5,main]ACA time: 30020 ns
+Thread[main,5,main]FAILURE
+Thread[main,5,main]5 ms
+Thread[main,5,main]ACA time: 24668 ns
+Thread[main,5,main]FAILURE
+Thread[main,5,main]16 ms
+Thread[main,5,main]ACA time: 9609296 ns
+Thread[main,5,main]PENDING
+Thread[main,5,main]6 ms
+Thread[main,5,main]ACA time: 33065 ns
+Thread[main,5,main]FAILURE
+Thread[main,5,main]5 ms
+Thread[main,5,main]ACA time: 23177 ns
+Thread[main,5,main]FAILURE
+Thread[main,5,main]3 ms
+Thread[main,5,main]ACA time: 47039 ns
+Thread[main,5,main]FAILURE
+Thread[main,5,main]3 ms
+Thread[main,5,main]ACA time: 27814 ns
+Thread[main,5,main]FAILURE
+Thread[main,5,main]13 ms
+Thread[main,5,main]ACA time: 9723247 ns
+Thread[main,5,main]PENDING
+Thread[main,5,main]4 ms
+Thread[main,5,main]ACA time: 31698 ns
+Thread[main,5,main]FAILURE
+Thread[main,5,main]4 ms
+Thread[main,5,main]ACA time: 22727 ns
+Thread[main,5,main]FAILURE
+Thread[main,5,main]3 ms
+Thread[main,5,main]ACA time: 22015 ns
+Thread[main,5,main]FAILURE
+Thread[main,5,main]3 ms
+Thread[main,5,main]ACA time: 23700 ns
+Thread[main,5,main]FAILURE
+Thread[main,5,main]12 ms
+Thread[main,5,main]ACA time: 9549298 ns
+Thread[main,5,main]PENDING
+Thread[main,5,main]3 ms
+Thread[main,5,main]ACA time: 30455 ns
+Thread[main,5,main]FAILURE
+Thread[main,5,main]4 ms
+Thread[main,5,main]ACA time: 29356 ns
+Thread[main,5,main]FAILURE
+Thread[main,5,main]4 ms
+Thread[main,5,main]ACA time: 25715 ns
+Thread[main,5,main]FAILURE
+Thread[main,5,main]4 ms
+Thread[main,5,main]ACA time: 47159 ns
+Thread[main,5,main]FAILURE
+Thread[main,5,main]12 ms
+Thread[main,5,main]ACA time: 9722018 ns
+Thread[main,5,main]PENDING
+Thread[main,5,main]3 ms
+Thread[main,5,main]ACA time: 28566 ns
+Thread[main,5,main]FAILURE
+Thread[main,5,main]4 ms
+Thread[main,5,main]ACA time: 23307 ns
+Thread[main,5,main]FAILURE
+Thread[main,5,main]3 ms
+Thread[main,5,main]ACA time: 23098 ns
+Thread[main,5,main]FAILURE
+Thread[main,5,main]2 ms
+Thread[main,5,main]ACA time: 20361 ns
+Thread[main,5,main]FAILURE
+Thread[main,5,main]12 ms
+Thread[main,5,main]ACA time: 9768171 ns
+Thread[main,5,main]PENDING
+Thread[main,5,main]3 ms
+Thread[main,5,main]ACA time: 30825 ns
+Thread[main,5,main]FAILURE
+Thread[main,5,main]3 ms
+Thread[main,5,main]ACA time: 30963 ns
+Thread[main,5,main]FAILURE
+Thread[main,5,main]4 ms
+Thread[main,5,main]ACA time: 30984 ns
+Thread[main,5,main]FAILURE
+Thread[main,5,main]3 ms
+Thread[main,5,main]ACA time: 23244 ns
+Thread[main,5,main]FAILURE
+Thread[main,5,main]12 ms
+Thread[main,5,main]ACA time: 9736173 ns
+Thread[main,5,main]PENDING
+Thread[main,5,main]3 ms
+Thread[main,5,main]ACA time: 29833 ns
+Thread[main,5,main]FAILURE
+Thread[main,5,main]2 ms
+Thread[main,5,main]ACA time: 30899 ns
+Thread[main,5,main]FAILURE
+Thread[main,5,main]3 ms
+Thread[main,5,main]ACA time: 25368 ns
+Thread[main,5,main]FAILURE
+Thread[main,5,main]3 ms
+Thread[main,5,main]ACA time: 27782 ns
+Thread[main,5,main]FAILURE
+Thread[main,5,main]12 ms
+Thread[main,5,main]ACA time: 9626858 ns
+Thread[main,5,main]PENDING
+Thread[main,5,main]2 ms
+Thread[main,5,main]ACA time: 25008 ns
+Thread[main,5,main]FAILURE
+Thread[main,5,main]3 ms
+Thread[main,5,main]ACA time: 32350 ns
+Thread[main,5,main]FAILURE
+Thread[main,5,main]2 ms
+Thread[main,5,main]ACA time: 32127 ns
+Thread[main,5,main]FAILURE
+Thread[main,5,main]3 ms
+Thread[main,5,main]ACA time: 25840 ns
+Thread[main,5,main]FAILURE
+Thread[main,5,main]12 ms
+Thread[main,5,main]ACA time: 9840103 ns
+Thread[main,5,main]PENDING
+Thread[main,5,main]2 ms
+Thread[main,5,main]ACA time: 31502 ns
+Thread[main,5,main]FAILURE
+Thread[main,5,main]3 ms
+Thread[main,5,main]ACA time: 33603 ns
+Thread[main,5,main]FAILURE
+Thread[main,5,main]5 ms
+Thread[main,5,main]ACA time: 24779 ns
+Thread[main,5,main]FAILURE
+Thread[main,5,main]3 ms
+Thread[main,5,main]ACA time: 40140 ns
+Thread[main,5,main]FAILURE
+Thread[main,5,main]13 ms
+Thread[main,5,main]ACA time: 10293573 ns
+Thread[main,5,main]PENDING
+Thread[main,5,main]3 ms
+Thread[main,5,main]ACA time: 24292 ns
+Thread[main,5,main]FAILURE
+Thread[main,5,main]2 ms
+Thread[main,5,main]ACA time: 27112 ns
+Thread[main,5,main]FAILURE
+Thread[main,5,main]2 ms
+Thread[main,5,main]ACA time: 27732 ns
+Thread[main,5,main]FAILURE
+Thread[main,5,main]2 ms
+Thread[main,5,main]ACA time: 31529 ns
+Thread[main,5,main]FAILURE
+Thread[main,5,main]13 ms
+Thread[main,5,main]ACA time: 10001133 ns
+Thread[main,5,main]PENDING
+Thread[main,5,main]2 ms
+Thread[main,5,main]ACA time: 27091 ns
+Thread[main,5,main]FAILURE
+Thread[main,5,main]2 ms
+Thread[main,5,main]ACA time: 26995 ns
+Thread[main,5,main]FAILURE
+Thread[main,5,main]3 ms
+Thread[main,5,main]ACA time: 25284 ns
+Thread[main,5,main]FAILURE
+Thread[main,5,main]3 ms
+Thread[main,5,main]ACA time: 21274 ns
+Thread[main,5,main]FAILURE
+Thread[main,5,main]12 ms
+Thread[main,5,main]ACA time: 9808046 ns
+Thread[main,5,main]PENDING
+Thread[main,5,main]4 ms
+Thread[main,5,main]ACA time: 37259 ns
+Thread[main,5,main]FAILURE
+Thread[main,5,main]7 ms
+Thread[main,5,main]ACA time: 34851 ns
+Thread[main,5,main]FAILURE
+Thread[main,5,main]3 ms
+Thread[main,5,main]ACA time: 33579 ns
+Thread[main,5,main]FAILURE
+Thread[main,5,main]3 ms
+Thread[main,5,main]ACA time: 31567 ns
+Thread[main,5,main]FAILURE
+Thread[main,5,main]12 ms
+Thread[main,5,main]ACA time: 9633379 ns
+Thread[main,5,main]PENDING
+Thread[main,5,main]2 ms
+Thread[main,5,main]ACA time: 32723 ns
+Thread[main,5,main]FAILURE
+Thread[main,5,main]54 ms
+Thread[main,5,main]ACA time: 36967 ns
+Thread[main,5,main]FAILURE
+Thread[main,5,main]4 ms
+Thread[main,5,main]ACA time: 41930 ns
+Thread[main,5,main]FAILURE
+Thread[main,5,main]3 ms
+Thread[main,5,main]ACA time: 31564 ns
+Thread[main,5,main]FAILURE
+Thread[main,5,main]15 ms
+Thread[main,5,main]ACA time: 10752630 ns
+Thread[main,5,main]PENDING
+Thread[main,5,main]3 ms
+Thread[main,5,main]ACA time: 29098 ns
+Thread[main,5,main]FAILURE
+Thread[main,5,main]3 ms
+Thread[main,5,main]ACA time: 27741 ns
+Thread[main,5,main]FAILURE
+Thread[main,5,main]3 ms
+Thread[main,5,main]ACA time: 33314 ns
+Thread[main,5,main]FAILURE
+Thread[main,5,main]3 ms
+Thread[main,5,main]ACA time: 27387 ns
+Thread[main,5,main]FAILURE
+Thread[main,5,main]13 ms
+Thread[main,5,main]ACA time: 10557188 ns
+Thread[main,5,main]PENDING
+Thread[main,5,main]2 ms
+Thread[main,5,main]ACA time: 30253 ns
+Thread[main,5,main]FAILURE
+Thread[main,5,main]2 ms
+Thread[main,5,main]ACA time: 25057 ns
+Thread[main,5,main]FAILURE
+Thread[main,5,main]3 ms
+Thread[main,5,main]ACA time: 25160 ns
+Thread[main,5,main]FAILURE
+Thread[main,5,main]3 ms
+Thread[main,5,main]ACA time: 28456 ns
+Thread[main,5,main]FAILURE
+Thread[main,5,main]13 ms
+Thread[main,5,main]ACA time: 9933977 ns
+Thread[main,5,main]PENDING
+Thread[main,5,main]3 ms
+Thread[main,5,main]ACA time: 29955 ns
+Thread[main,5,main]FAILURE
+Thread[main,5,main]2 ms
+Thread[main,5,main]ACA time: 30242 ns
+Thread[main,5,main]FAILURE
+Thread[main,5,main]2 ms
+Thread[main,5,main]ACA time: 25758 ns
+Thread[main,5,main]FAILURE
+Thread[main,5,main]3 ms
+Thread[main,5,main]ACA time: 28252 ns
+Thread[main,5,main]FAILURE
+Thread[main,5,main]12 ms
+Thread[main,5,main]ACA time: 9259571 ns
+Thread[main,5,main]PENDING
+Thread[main,5,main]2 ms
+Thread[main,5,main]ACA time: 26397 ns
+Thread[main,5,main]FAILURE
+Thread[main,5,main]2 ms
+Thread[main,5,main]ACA time: 22860 ns
+Thread[main,5,main]FAILURE
+Thread[main,5,main]2 ms
+Thread[main,5,main]ACA time: 41324 ns
+Thread[main,5,main]FAILURE
+Thread[main,5,main]3 ms
+Thread[main,5,main]ACA time: 21933 ns
+Thread[main,5,main]FAILURE
+Thread[main,5,main]12 ms
+Thread[main,5,main]ACA time: 9914771 ns
+Thread[main,5,main]PENDING
+Thread[main,5,main]2 ms
+Thread[main,5,main]ACA time: 31049 ns
+Thread[main,5,main]FAILURE
+Thread[main,5,main]2 ms
+Thread[main,5,main]ACA time: 27624 ns
+Thread[main,5,main]FAILURE
+Thread[main,5,main]2 ms
+Thread[main,5,main]ACA time: 25392 ns
+Thread[main,5,main]FAILURE
+Thread[main,5,main]2 ms
+Thread[main,5,main]ACA time: 31867 ns
+Thread[main,5,main]FAILURE
+Thread[main,5,main]12 ms
+Thread[main,5,main]ACA time: 9415205 ns
+Thread[main,5,main]PENDING
+Thread[main,5,main]2 ms
+Thread[main,5,main]ACA time: 33980 ns
+Thread[main,5,main]FAILURE
+Thread[main,5,main]3 ms
+Thread[main,5,main]ACA time: 28078 ns
+Thread[main,5,main]FAILURE
+Thread[main,5,main]3 ms
+Thread[main,5,main]ACA time: 27109 ns
+Thread[main,5,main]FAILURE
+Thread[main,5,main]3 ms
+Thread[main,5,main]ACA time: 25223 ns
+Thread[main,5,main]FAILURE
+Thread[main,5,main]12 ms
+Thread[main,5,main]ACA time: 9274107 ns
+Thread[main,5,main]PENDING
+Thread[main,5,main]3 ms
+Thread[main,5,main]ACA time: 23413 ns
+Thread[main,5,main]FAILURE
+Thread[main,5,main]2 ms
+Thread[main,5,main]ACA time: 25091 ns
+Thread[main,5,main]FAILURE
+Thread[main,5,main]2 ms
+Thread[main,5,main]ACA time: 24067 ns
+Thread[main,5,main]FAILURE
+Thread[main,5,main]2 ms
+Thread[main,5,main]ACA time: 33198 ns
+Thread[main,5,main]FAILURE
+Thread[main,5,main]12 ms
+Thread[main,5,main]ACA time: 9849213 ns
+Thread[main,5,main]PENDING
+Thread[main,5,main]2 ms
+Thread[main,5,main]ACA time: 32343 ns
+Thread[main,5,main]FAILURE
+Thread[main,5,main]3 ms
+Thread[main,5,main]ACA time: 27895 ns
+Thread[main,5,main]FAILURE
+Thread[main,5,main]2 ms
+Thread[main,5,main]ACA time: 28136 ns
+Thread[main,5,main]FAILURE
+Thread[main,5,main]2 ms
+Thread[main,5,main]ACA time: 29789 ns
+Thread[main,5,main]FAILURE
+Thread[main,5,main]12 ms
+Thread[main,5,main]ACA time: 9681923 ns
+Thread[main,5,main]PENDING
+Thread[main,5,main]3 ms
+Thread[main,5,main]ACA time: 24299 ns
+Thread[main,5,main]FAILURE
+Thread[main,5,main]4 ms
+Thread[main,5,main]ACA time: 22039 ns
+Thread[main,5,main]FAILURE
+Thread[main,5,main]2 ms
+Thread[main,5,main]ACA time: 21203 ns
+Thread[main,5,main]FAILURE
+Thread[main,5,main]2 ms
+Thread[main,5,main]ACA time: 28421 ns
+Thread[main,5,main]FAILURE
+Thread[main,5,main]12 ms
+Thread[main,5,main]ACA time: 9921804 ns
+Thread[main,5,main]PENDING
+Thread[main,5,main]2 ms
+Thread[main,5,main]ACA time: 22756 ns
+Thread[main,5,main]FAILURE
+Thread[main,5,main]2 ms
+Thread[main,5,main]ACA time: 21683 ns
+Thread[main,5,main]FAILURE
+Thread[main,5,main]3 ms
+Thread[main,5,main]ACA time: 30164 ns
+Thread[main,5,main]FAILURE
+Thread[main,5,main]2 ms
+Thread[main,5,main]ACA time: 28298 ns
+Thread[main,5,main]FAILURE
+Thread[main,5,main]11 ms
+Thread[main,5,main]ACA time: 9252037 ns
+Thread[main,5,main]PENDING
+Thread[main,5,main]3 ms
+Thread[main,5,main]ACA time: 23764 ns
+Thread[main,5,main]FAILURE
+Thread[main,5,main]2 ms
+Thread[main,5,main]ACA time: 28028 ns
+Thread[main,5,main]FAILURE
+Thread[main,5,main]2 ms
+Thread[main,5,main]ACA time: 27058 ns
+Thread[main,5,main]FAILURE
+Thread[main,5,main]2 ms
+Thread[main,5,main]ACA time: 33345 ns
+Thread[main,5,main]FAILURE
+Thread[main,5,main]12 ms
+Thread[main,5,main]ACA time: 9600348 ns
+Thread[main,5,main]PENDING
+Thread[main,5,main]3 ms
+Thread[main,5,main]ACA time: 31700 ns
+Thread[main,5,main]FAILURE
+Thread[main,5,main]3 ms
+Thread[main,5,main]ACA time: 22717 ns
+Thread[main,5,main]FAILURE
+Thread[main,5,main]2 ms
+Thread[main,5,main]ACA time: 25869 ns
+Thread[main,5,main]FAILURE
+Thread[main,5,main]2 ms
+Thread[main,5,main]ACA time: 24424 ns
+Thread[main,5,main]FAILURE
+Thread[main,5,main]13 ms
+Thread[main,5,main]ACA time: 10468507 ns
+Thread[main,5,main]PENDING
+Thread[main,5,main]3 ms
+Thread[main,5,main]ACA time: 31286 ns
+Thread[main,5,main]FAILURE
+Thread[main,5,main]2 ms
+Thread[main,5,main]ACA time: 22831 ns
+Thread[main,5,main]FAILURE
+Thread[main,5,main]2 ms
+Thread[main,5,main]ACA time: 30736 ns
+Thread[main,5,main]FAILURE
+Thread[main,5,main]2 ms
+Thread[main,5,main]ACA time: 29238 ns
+Thread[main,5,main]FAILURE
+Thread[main,5,main]13 ms
+Thread[main,5,main]ACA time: 9822404 ns
+Thread[main,5,main]PENDING
+Thread[main,5,main]2 ms
+Thread[main,5,main]ACA time: 32827 ns
+Thread[main,5,main]FAILURE
+Thread[main,5,main]2 ms
+Thread[main,5,main]ACA time: 30780 ns
+Thread[main,5,main]FAILURE
+Thread[main,5,main]3 ms
+Thread[main,5,main]ACA time: 29459 ns
+Thread[main,5,main]FAILURE
+Thread[main,5,main]2 ms
+Thread[main,5,main]ACA time: 42861 ns
+Thread[main,5,main]FAILURE
+Thread[main,5,main]12 ms
+Thread[main,5,main]ACA time: 9903424 ns
+Thread[main,5,main]PENDING
+Thread[main,5,main]2 ms
+Thread[main,5,main]ACA time: 24873 ns
+Thread[main,5,main]FAILURE
+Thread[main,5,main]2 ms
+Thread[main,5,main]ACA time: 22875 ns
+Thread[main,5,main]FAILURE
+Thread[main,5,main]2 ms
+Thread[main,5,main]ACA time: 22132 ns
+Thread[main,5,main]FAILURE
+Thread[main,5,main]3 ms
+Thread[main,5,main]ACA time: 22890 ns
+Thread[main,5,main]FAILURE
+Thread[main,5,main]11 ms
+Thread[main,5,main]ACA time: 9337705 ns
+Thread[main,5,main]PENDING
+Thread[main,5,main]3 ms
+Thread[main,5,main]ACA time: 37695 ns
+Thread[main,5,main]FAILURE
+Thread[main,5,main]2 ms
+Thread[main,5,main]ACA time: 30880 ns
+Thread[main,5,main]FAILURE
+Thread[main,5,main]2 ms
+Thread[main,5,main]ACA time: 32489 ns
+Thread[main,5,main]FAILURE
+Thread[main,5,main]3 ms
+Thread[main,5,main]ACA time: 28624 ns
+Thread[main,5,main]FAILURE
+Thread[main,5,main]12 ms
+Thread[main,5,main]ACA time: 9858668 ns
+Thread[main,5,main]PENDING
+Thread[main,5,main]2 ms
+Thread[main,5,main]ACA time: 24734 ns
+Thread[main,5,main]FAILURE
+Thread[main,5,main]2 ms
+Thread[main,5,main]ACA time: 28958 ns
+Thread[main,5,main]FAILURE
+Thread[main,5,main]2 ms
+Thread[main,5,main]ACA time: 30028 ns
+Thread[main,5,main]FAILURE
+Thread[main,5,main]2 ms
+Thread[main,5,main]ACA time: 26184 ns
+Thread[main,5,main]FAILURE
+Thread[main,5,main]15 ms
+Thread[main,5,main]ACA time: 10006753 ns
+Thread[main,5,main]PENDING
+Thread[main,5,main]2 ms
+Thread[main,5,main]ACA time: 34396 ns
+Thread[main,5,main]FAILURE
+Thread[main,5,main]2 ms
+Thread[main,5,main]ACA time: 24396 ns
+Thread[main,5,main]FAILURE
+Thread[main,5,main]2 ms
+Thread[main,5,main]ACA time: 26104 ns
+Thread[main,5,main]FAILURE
+Thread[main,5,main]2 ms
+Thread[main,5,main]ACA time: 28740 ns
+Thread[main,5,main]FAILURE
+Thread[main,5,main]12 ms
+Thread[main,5,main]ACA time: 10169926 ns
+Thread[main,5,main]PENDING
+Thread[main,5,main]2 ms
+Thread[main,5,main]ACA time: 30182 ns
+Thread[main,5,main]FAILURE
+Thread[main,5,main]2 ms
+Thread[main,5,main]ACA time: 28354 ns
+Thread[main,5,main]FAILURE
+Thread[main,5,main]2 ms
+Thread[main,5,main]ACA time: 22450 ns
+Thread[main,5,main]FAILURE
+Thread[main,5,main]3 ms
+Thread[main,5,main]ACA time: 29022 ns
+Thread[main,5,main]FAILURE
+Thread[main,5,main]12 ms
+Thread[main,5,main]ACA time: 10084719 ns
+Thread[main,5,main]PENDING
+Thread[main,5,main]2 ms
+Thread[main,5,main]ACA time: 30522 ns
+Thread[main,5,main]FAILURE
+Thread[main,5,main]2 ms
+Thread[main,5,main]ACA time: 30314 ns
+Thread[main,5,main]FAILURE
+Thread[main,5,main]2 ms
+Thread[main,5,main]ACA time: 26699 ns
+Thread[main,5,main]FAILURE
+Thread[main,5,main]2 ms
+Thread[main,5,main]ACA time: 25585 ns
+Thread[main,5,main]FAILURE
+Thread[main,5,main]13 ms
+Thread[main,5,main]ACA time: 10060076 ns
+Thread[main,5,main]PENDING
+Thread[main,5,main]2 ms
+Thread[main,5,main]ACA time: 31719 ns
+Thread[main,5,main]FAILURE
+Thread[main,5,main]2 ms
+Thread[main,5,main]ACA time: 30595 ns
+Thread[main,5,main]FAILURE
+Thread[main,5,main]2 ms
+Thread[main,5,main]ACA time: 33024 ns
+Thread[main,5,main]FAILURE
+Thread[main,5,main]2 ms
+Thread[main,5,main]ACA time: 24884 ns
+Thread[main,5,main]FAILURE
+Thread[main,5,main]13 ms
+Thread[main,5,main]ACA time: 10023017 ns
+Thread[main,5,main]PENDING
+Thread[main,5,main]3 ms
+Thread[main,5,main]ACA time: 36558 ns
+Thread[main,5,main]FAILURE
+Thread[main,5,main]3 ms
+Thread[main,5,main]ACA time: 29570 ns
+Thread[main,5,main]FAILURE
+Thread[main,5,main]2 ms
+Thread[main,5,main]ACA time: 36792 ns
+Thread[main,5,main]FAILURE
+Thread[main,5,main]2 ms
+Thread[main,5,main]ACA time: 30000 ns
+Thread[main,5,main]FAILURE
+Thread[main,5,main]12 ms
+Thread[main,5,main]ACA time: 10020330 ns
+Thread[main,5,main]PENDING
+Thread[main,5,main]2 ms
+Thread[main,5,main]ACA time: 32905 ns
+Thread[main,5,main]FAILURE
+Thread[main,5,main]2 ms
+Thread[main,5,main]ACA time: 33974 ns
+Thread[main,5,main]FAILURE
+Thread[main,5,main]2 ms
+Thread[main,5,main]ACA time: 24888 ns
+Thread[main,5,main]FAILURE
+Thread[main,5,main]3 ms
+Thread[main,5,main]ACA time: 29805 ns
+Thread[main,5,main]FAILURE

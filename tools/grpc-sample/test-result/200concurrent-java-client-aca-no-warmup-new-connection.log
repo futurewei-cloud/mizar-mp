@@ -1,0 +1,600 @@
+Thread[Thread-4,5,main]422 ms
+Thread[Thread-68,5,main]246 ms
+Thread[Thread-85,5,main]183 ms
+Thread[Thread-85,5,main]ACA time: 14130596 ns
+Thread[Thread-19,5,main]359 ms
+Thread[Thread-101,5,main]107 ms
+Thread[Thread-60,5,main]269 ms
+Thread[Thread-82,5,main]189 ms
+Thread[Thread-0,5,main]450 ms
+Thread[Thread-82,5,main]ACA time: 36954 ns
+Thread[Thread-60,5,main]ACA time: 11732904 ns
+Thread[Thread-51,5,main]288 ms
+Thread[Thread-101,5,main]ACA time: 35955 ns
+Thread[Thread-19,5,main]ACA time: 56220 ns
+Thread[Thread-74,5,main]220 ms
+Thread[Thread-34,5,main]325 ms
+Thread[Thread-101,5,main]FAILURE
+Thread[Thread-68,5,main]ACA time: 33084 ns
+Thread[Thread-4,5,main]ACA time: 26159 ns
+Thread[Thread-68,5,main]FAILURE
+Thread[Thread-108,5,main]95 ms
+Thread[Thread-60,5,main]PENDING
+Thread[Thread-34,5,main]ACA time: 42361 ns
+Thread[Thread-19,5,main]FAILURE
+Thread[Thread-82,5,main]FAILURE
+Thread[Thread-74,5,main]ACA time: 33563 ns
+Thread[Thread-85,5,main]PENDING
+Thread[Thread-51,5,main]ACA time: 32364 ns
+Thread[Thread-16,5,main]378 ms
+Thread[Thread-0,5,main]ACA time: 12953953 ns
+Thread[Thread-16,5,main]ACA time: 34353 ns
+Thread[Thread-51,5,main]FAILURE
+Thread[Thread-74,5,main]FAILURE
+Thread[Thread-34,5,main]FAILURE
+Thread[Thread-108,5,main]ACA time: 41678 ns
+Thread[Thread-4,5,main]FAILURE
+Thread[Thread-108,5,main]FAILURE
+Thread[Thread-16,5,main]FAILURE
+Thread[Thread-0,5,main]PENDING
+Thread[Thread-95,5,main]145 ms
+Thread[Thread-95,5,main]ACA time: 12168789 ns
+Thread[Thread-95,5,main]PENDING
+Thread[Thread-112,5,main]88 ms
+Thread[Thread-112,5,main]ACA time: 54069 ns
+Thread[Thread-112,5,main]FAILURE
+Thread[Thread-5,5,main]441 ms
+Thread[Thread-5,5,main]ACA time: 11255953 ns
+Thread[Thread-5,5,main]PENDING
+Thread[Thread-10,5,main]437 ms
+Thread[Thread-10,5,main]ACA time: 12238255 ns
+Thread[Thread-10,5,main]PENDING
+Thread[Thread-65,5,main]304 ms
+Thread[Thread-65,5,main]ACA time: 10667237 ns
+Thread[Thread-65,5,main]PENDING
+Thread[Thread-69,5,main]314 ms
+Thread[Thread-69,5,main]ACA time: 33821 ns
+Thread[Thread-69,5,main]FAILURE
+Thread[Thread-33,5,main]397 ms
+Thread[Thread-33,5,main]ACA time: 32120 ns
+Thread[Thread-33,5,main]FAILURE
+Thread[Thread-21,5,main]432 ms
+Thread[Thread-21,5,main]ACA time: 43985 ns
+Thread[Thread-109,5,main]170 ms
+Thread[Thread-120,5,main]134 ms
+Thread[Thread-109,5,main]ACA time: 24145 ns
+Thread[Thread-103,5,main]183 ms
+Thread[Thread-103,5,main]ACA time: 22871 ns
+Thread[Thread-42,5,main]386 ms
+Thread[Thread-43,5,main]384 ms
+Thread[Thread-21,5,main]FAILURE
+Thread[Thread-43,5,main]ACA time: 22048 ns
+Thread[Thread-42,5,main]ACA time: 33595 ns
+Thread[Thread-103,5,main]FAILURE
+Thread[Thread-109,5,main]FAILURE
+Thread[Thread-120,5,main]ACA time: 12185053 ns
+Thread[Thread-100,5,main]189 ms
+Thread[Thread-42,5,main]FAILURE
+Thread[Thread-43,5,main]FAILURE
+Thread[Thread-100,5,main]ACA time: 10136331 ns
+Thread[Thread-120,5,main]PENDING
+Thread[Thread-100,5,main]PENDING
+Thread[Thread-57,5,main]354 ms
+Thread[Thread-57,5,main]ACA time: 47644 ns
+Thread[Thread-57,5,main]FAILURE
+Thread[Thread-67,5,main]328 ms
+Thread[Thread-67,5,main]ACA time: 34237 ns
+Thread[Thread-67,5,main]FAILURE
+Thread[Thread-97,5,main]197 ms
+Thread[Thread-97,5,main]ACA time: 39758 ns
+Thread[Thread-97,5,main]FAILURE
+Thread[Thread-119,5,main]139 ms
+Thread[Thread-119,5,main]ACA time: 40421 ns
+Thread[Thread-119,5,main]FAILURE
+Thread[Thread-77,5,main]288 ms
+Thread[Thread-77,5,main]ACA time: 27186 ns
+Thread[Thread-77,5,main]FAILURE
+Thread[Thread-98,5,main]197 ms
+Thread[Thread-98,5,main]ACA time: 60489 ns
+Thread[Thread-98,5,main]FAILURE
+Thread[Thread-116,5,main]149 ms
+Thread[Thread-116,5,main]ACA time: 28873 ns
+Thread[Thread-116,5,main]FAILURE
+Thread[Thread-45,5,main]396 ms
+Thread[Thread-45,5,main]ACA time: 11500916 ns
+Thread[Thread-45,5,main]PENDING
+Thread[Thread-71,5,main]320 ms
+Thread[Thread-71,5,main]ACA time: 43443 ns
+Thread[Thread-84,5,main]281 ms
+Thread[Thread-71,5,main]FAILURE
+Thread[Thread-84,5,main]ACA time: 31872 ns
+Thread[Thread-84,5,main]FAILURE
+Thread[Thread-115,5,main]177 ms
+Thread[Thread-115,5,main]ACA time: 12344325 ns
+Thread[Thread-115,5,main]PENDING
+Thread[Thread-96,5,main]228 ms
+Thread[Thread-96,5,main]ACA time: 27758 ns
+Thread[Thread-96,5,main]FAILURE
+Thread[Thread-78,5,main]313 ms
+Thread[Thread-78,5,main]ACA time: 32978 ns
+Thread[Thread-78,5,main]FAILURE
+Thread[Thread-3,5,main]537 ms
+Thread[Thread-3,5,main]ACA time: 26758 ns
+Thread[Thread-3,5,main]FAILURE
+Thread[Thread-94,5,main]244 ms
+Thread[Thread-94,5,main]ACA time: 39672 ns
+Thread[Thread-94,5,main]FAILURE
+Thread[Thread-29,5,main]445 ms
+Thread[Thread-29,5,main]ACA time: 35115 ns
+Thread[Thread-29,5,main]FAILURE
+Thread[Thread-36,5,main]431 ms
+Thread[Thread-36,5,main]ACA time: 24297 ns
+Thread[Thread-36,5,main]FAILURE
+Thread[Thread-41,5,main]420 ms
+Thread[Thread-41,5,main]ACA time: 35697 ns
+Thread[Thread-41,5,main]FAILURE
+Thread[Thread-49,5,main]403 ms
+Thread[Thread-49,5,main]ACA time: 29610 ns
+Thread[Thread-49,5,main]FAILURE
+Thread[Thread-40,5,main]437 ms
+Thread[Thread-40,5,main]ACA time: 14194961 ns
+Thread[Thread-40,5,main]PENDING
+Thread[Thread-2,5,main]561 ms
+Thread[Thread-2,5,main]ACA time: 39539 ns
+Thread[Thread-2,5,main]FAILURE
+Thread[Thread-9,5,main]528 ms
+Thread[Thread-9,5,main]ACA time: 50449 ns
+Thread[Thread-9,5,main]FAILURE
+Thread[Thread-66,5,main]378 ms
+Thread[Thread-66,5,main]ACA time: 47124 ns
+Thread[Thread-66,5,main]FAILURE
+Thread[Thread-11,5,main]522 ms
+Thread[Thread-11,5,main]ACA time: 26368 ns
+Thread[Thread-11,5,main]FAILURE
+Thread[Thread-48,5,main]423 ms
+Thread[Thread-48,5,main]ACA time: 27632 ns
+Thread[Thread-48,5,main]FAILURE
+Thread[Thread-111,5,main]204 ms
+Thread[Thread-111,5,main]ACA time: 36780 ns
+Thread[Thread-111,5,main]FAILURE
+Thread[Thread-20,5,main]499 ms
+Thread[Thread-20,5,main]ACA time: 13120381 ns
+Thread[Thread-20,5,main]PENDING
+Thread[Thread-39,5,main]456 ms
+Thread[Thread-39,5,main]ACA time: 31385 ns
+Thread[Thread-39,5,main]FAILURE
+Thread[Thread-17,5,main]507 ms
+Thread[Thread-17,5,main]ACA time: 31302 ns
+Thread[Thread-17,5,main]FAILURE
+Thread[Thread-35,5,main]477 ms
+Thread[Thread-35,5,main]ACA time: 11723830 ns
+Thread[Thread-35,5,main]PENDING
+Thread[Thread-87,5,main]304 ms
+Thread[Thread-87,5,main]ACA time: 31772 ns
+Thread[Thread-87,5,main]FAILURE
+Thread[Thread-63,5,main]419 ms
+Thread[Thread-63,5,main]ACA time: 33076 ns
+Thread[Thread-63,5,main]FAILURE
+Thread[Thread-28,5,main]494 ms
+Thread[Thread-28,5,main]ACA time: 30495 ns
+Thread[Thread-28,5,main]FAILURE
+Thread[Thread-25,5,main]514 ms
+Thread[Thread-25,5,main]ACA time: 12105400 ns
+Thread[Thread-25,5,main]PENDING
+Thread[Thread-27,5,main]509 ms
+Thread[Thread-27,5,main]ACA time: 35015 ns
+Thread[Thread-27,5,main]FAILURE
+Thread[Thread-110,5,main]259 ms
+Thread[Thread-110,5,main]ACA time: 10208906 ns
+Thread[Thread-110,5,main]PENDING
+Thread[Thread-73,5,main]402 ms
+Thread[Thread-73,5,main]ACA time: 36680 ns
+Thread[Thread-73,5,main]FAILURE
+Thread[Thread-70,5,main]423 ms
+Thread[Thread-70,5,main]ACA time: 10416946 ns
+Thread[Thread-70,5,main]PENDING
+Thread[Thread-6,5,main]605 ms
+Thread[Thread-6,5,main]ACA time: 31431 ns
+Thread[Thread-6,5,main]FAILURE
+Thread[Thread-81,5,main]385 ms
+Thread[Thread-81,5,main]ACA time: 28634 ns
+Thread[Thread-81,5,main]FAILURE
+Thread[Thread-117,5,main]258 ms
+Thread[Thread-72,5,main]417 ms
+Thread[Thread-117,5,main]ACA time: 43190 ns
+Thread[Thread-72,5,main]ACA time: 32669 ns
+Thread[Thread-117,5,main]FAILURE
+Thread[Thread-72,5,main]FAILURE
+Thread[Thread-15,5,main]585 ms
+Thread[Thread-15,5,main]ACA time: 10099027 ns
+Thread[Thread-15,5,main]PENDING
+Thread[Thread-118,5,main]267 ms
+Thread[Thread-118,5,main]ACA time: 34489 ns
+Thread[Thread-118,5,main]FAILURE
+Thread[Thread-37,5,main]523 ms
+Thread[Thread-37,5,main]ACA time: 39746 ns
+Thread[Thread-37,5,main]FAILURE
+Thread[Thread-1,5,main]646 ms
+Thread[Thread-1,5,main]ACA time: 24253 ns
+Thread[Thread-1,5,main]FAILURE
+Thread[Thread-64,5,main]461 ms
+Thread[Thread-64,5,main]ACA time: 39845 ns
+Thread[Thread-64,5,main]FAILURE
+Thread[Thread-75,5,main]430 ms
+Thread[Thread-75,5,main]ACA time: 9499064 ns
+Thread[Thread-75,5,main]PENDING
+Thread[Thread-80,5,main]422 ms
+Thread[Thread-80,5,main]ACA time: 10938890 ns
+Thread[Thread-80,5,main]PENDING
+Thread[Thread-54,5,main]510 ms
+Thread[Thread-54,5,main]ACA time: 52239 ns
+Thread[Thread-54,5,main]FAILURE
+Thread[Thread-32,5,main]557 ms
+Thread[Thread-32,5,main]ACA time: 33165 ns
+Thread[Thread-32,5,main]FAILURE
+Thread[Thread-50,5,main]530 ms
+Thread[Thread-47,5,main]538 ms
+Thread[Thread-50,5,main]ACA time: 11034442 ns
+Thread[Thread-47,5,main]ACA time: 34729 ns
+Thread[Thread-50,5,main]PENDING
+Thread[Thread-47,5,main]FAILURE
+Thread[Thread-58,5,main]513 ms
+Thread[Thread-58,5,main]ACA time: 28551 ns
+Thread[Thread-58,5,main]FAILURE
+Thread[Thread-38,5,main]556 ms
+Thread[Thread-38,5,main]ACA time: 35201 ns
+Thread[Thread-38,5,main]FAILURE
+Thread[Thread-106,5,main]340 ms
+Thread[Thread-106,5,main]ACA time: 29081 ns
+Thread[Thread-106,5,main]FAILURE
+Thread[Thread-99,5,main]356 ms
+Thread[Thread-99,5,main]ACA time: 40072 ns
+Thread[Thread-99,5,main]FAILURE
+Thread[Thread-30,5,main]585 ms
+Thread[Thread-30,5,main]ACA time: 10149063 ns
+Thread[Thread-30,5,main]PENDING
+Thread[Thread-31,5,main]584 ms
+Thread[Thread-113,5,main]326 ms
+Thread[Thread-113,5,main]ACA time: 35312 ns
+Thread[Thread-113,5,main]FAILURE
+Thread[Thread-31,5,main]ACA time: 34014 ns
+Thread[Thread-31,5,main]FAILURE
+Thread[Thread-105,5,main]366 ms
+Thread[Thread-105,5,main]ACA time: 10935859 ns
+Thread[Thread-105,5,main]PENDING
+Thread[Thread-92,5,main]404 ms
+Thread[Thread-92,5,main]ACA time: 37549 ns
+Thread[Thread-92,5,main]FAILURE
+Thread[Thread-18,5,main]628 ms
+Thread[Thread-18,5,main]ACA time: 31805 ns
+Thread[Thread-18,5,main]FAILURE
+Thread[Thread-104,5,main]369 ms
+Thread[Thread-104,5,main]ACA time: 29300 ns
+Thread[Thread-104,5,main]FAILURE
+Thread[Thread-14,5,main]653 ms
+Thread[Thread-14,5,main]ACA time: 36242 ns
+Thread[Thread-14,5,main]FAILURE
+Thread[Thread-59,5,main]539 ms
+Thread[Thread-59,5,main]ACA time: 24242 ns
+Thread[Thread-59,5,main]FAILURE
+Thread[Thread-26,5,main]610 ms
+Thread[Thread-26,5,main]ACA time: 44037 ns
+Thread[Thread-26,5,main]FAILURE
+Thread[Thread-24,5,main]615 ms
+Thread[Thread-24,5,main]ACA time: 32238 ns
+Thread[Thread-24,5,main]FAILURE
+Thread[Thread-61,5,main]536 ms
+Thread[Thread-61,5,main]ACA time: 51395 ns
+Thread[Thread-61,5,main]FAILURE
+Thread[Thread-90,5,main]424 ms
+Thread[Thread-90,5,main]ACA time: 12080918 ns
+Thread[Thread-90,5,main]PENDING
+Thread[Thread-13,5,main]670 ms
+Thread[Thread-13,5,main]ACA time: 47829 ns
+Thread[Thread-13,5,main]FAILURE
+Thread[Thread-79,5,main]482 ms
+Thread[Thread-79,5,main]ACA time: 28549 ns
+Thread[Thread-79,5,main]FAILURE
+Thread[Thread-86,5,main]464 ms
+Thread[Thread-86,5,main]ACA time: 29847 ns
+Thread[Thread-86,5,main]FAILURE
+Thread[Thread-89,5,main]428 ms
+Thread[Thread-89,5,main]ACA time: 29926 ns
+Thread[Thread-89,5,main]FAILURE
+Thread[Thread-107,5,main]380 ms
+Thread[Thread-107,5,main]ACA time: 31221 ns
+Thread[Thread-107,5,main]FAILURE
+Thread[Thread-8,5,main]688 ms
+Thread[Thread-8,5,main]ACA time: 27107 ns
+Thread[Thread-8,5,main]FAILURE
+Thread[Thread-83,5,main]471 ms
+Thread[Thread-83,5,main]ACA time: 22739 ns
+Thread[Thread-83,5,main]FAILURE
+Thread[Thread-56,5,main]560 ms
+Thread[Thread-56,5,main]ACA time: 29178 ns
+Thread[Thread-56,5,main]FAILURE
+Thread[Thread-22,5,main]637 ms
+Thread[Thread-22,5,main]ACA time: 28233 ns
+Thread[Thread-22,5,main]FAILURE
+Thread[Thread-52,5,main]570 ms
+Thread[Thread-52,5,main]ACA time: 29200 ns
+Thread[Thread-52,5,main]FAILURE
+Thread[Thread-7,5,main]694 ms
+Thread[Thread-7,5,main]ACA time: 41323 ns
+Thread[Thread-7,5,main]FAILURE
+Thread[Thread-12,5,main]677 ms
+Thread[Thread-12,5,main]ACA time: 26523 ns
+Thread[Thread-12,5,main]FAILURE
+Thread[Thread-55,5,main]576 ms
+Thread[Thread-55,5,main]ACA time: 10432679 ns
+Thread[Thread-76,5,main]507 ms
+Thread[Thread-55,5,main]PENDING
+Thread[Thread-76,5,main]ACA time: 36041 ns
+Thread[Thread-76,5,main]FAILURE
+Thread[Thread-102,5,main]405 ms
+Thread[Thread-102,5,main]ACA time: 31573 ns
+Thread[Thread-102,5,main]FAILURE
+Thread[Thread-88,5,main]447 ms
+Thread[Thread-88,5,main]ACA time: 33283 ns
+Thread[Thread-88,5,main]FAILURE
+Thread[Thread-44,5,main]604 ms
+Thread[Thread-44,5,main]ACA time: 27610 ns
+Thread[Thread-44,5,main]FAILURE
+Thread[Thread-46,5,main]600 ms
+Thread[Thread-46,5,main]ACA time: 22942 ns
+Thread[Thread-46,5,main]FAILURE
+Thread[Thread-62,5,main]566 ms
+Thread[Thread-62,5,main]ACA time: 32585 ns
+Thread[Thread-62,5,main]FAILURE
+Thread[Thread-53,5,main]585 ms
+Thread[Thread-53,5,main]ACA time: 38879 ns
+Thread[Thread-53,5,main]FAILURE
+Thread[Thread-23,5,main]651 ms
+Thread[Thread-23,5,main]ACA time: 35875 ns
+Thread[Thread-23,5,main]FAILURE
+Thread[Thread-91,5,main]443 ms
+Thread[Thread-91,5,main]ACA time: 30843 ns
+Thread[Thread-91,5,main]FAILURE
+Thread[Thread-114,5,main]373 ms
+Thread[Thread-114,5,main]ACA time: 32222 ns
+Thread[Thread-114,5,main]FAILURE
+Thread[Thread-93,5,main]439 ms
+Thread[Thread-93,5,main]ACA time: 37025 ns
+Thread[Thread-93,5,main]FAILURE
+Thread[Thread-122,5,main]354 ms
+Thread[Thread-122,5,main]ACA time: 32538 ns
+Thread[Thread-122,5,main]FAILURE
+Thread[Thread-121,5,main]357 ms
+Thread[Thread-121,5,main]ACA time: 35425 ns
+Thread[Thread-121,5,main]FAILURE
+Thread[Thread-123,5,main]352 ms
+Thread[Thread-123,5,main]ACA time: 29328 ns
+Thread[Thread-123,5,main]FAILURE
+Thread[Thread-124,5,main]349 ms
+Thread[Thread-124,5,main]ACA time: 29276 ns
+Thread[Thread-124,5,main]FAILURE
+Thread[Thread-125,5,main]357 ms
+Thread[Thread-125,5,main]ACA time: 12018103 ns
+Thread[Thread-125,5,main]PENDING
+Thread[Thread-126,5,main]356 ms
+Thread[Thread-126,5,main]ACA time: 37251 ns
+Thread[Thread-126,5,main]FAILURE
+Thread[Thread-127,5,main]354 ms
+Thread[Thread-129,5,main]320 ms
+Thread[Thread-128,5,main]334 ms
+Thread[Thread-127,5,main]ACA time: 29087 ns
+Thread[Thread-128,5,main]ACA time: 34576 ns
+Thread[Thread-129,5,main]ACA time: 29129 ns
+Thread[Thread-128,5,main]FAILURE
+Thread[Thread-127,5,main]FAILURE
+Thread[Thread-129,5,main]FAILURE
+Thread[Thread-131,5,main]330 ms
+Thread[Thread-130,5,main]331 ms
+Thread[Thread-131,5,main]ACA time: 37532 ns
+Thread[Thread-130,5,main]ACA time: 12000273 ns
+Thread[Thread-131,5,main]FAILURE
+Thread[Thread-130,5,main]PENDING
+Thread[Thread-132,5,main]328 ms
+Thread[Thread-132,5,main]ACA time: 29599 ns
+Thread[Thread-132,5,main]FAILURE
+Thread[Thread-133,5,main]326 ms
+Thread[Thread-133,5,main]ACA time: 27719 ns
+Thread[Thread-133,5,main]FAILURE
+Thread[Thread-134,5,main]326 ms
+Thread[Thread-134,5,main]ACA time: 29633 ns
+Thread[Thread-134,5,main]FAILURE
+Thread[Thread-135,5,main]335 ms
+Thread[Thread-135,5,main]ACA time: 10065812 ns
+Thread[Thread-135,5,main]PENDING
+Thread[Thread-136,5,main]335 ms
+Thread[Thread-136,5,main]ACA time: 31969 ns
+Thread[Thread-136,5,main]FAILURE
+Thread[Thread-137,5,main]333 ms
+Thread[Thread-137,5,main]ACA time: 44828 ns
+Thread[Thread-137,5,main]FAILURE
+Thread[Thread-138,5,main]332 ms
+Thread[Thread-138,5,main]ACA time: 23613 ns
+Thread[Thread-138,5,main]FAILURE
+Thread[Thread-139,5,main]332 ms
+Thread[Thread-139,5,main]ACA time: 34734 ns
+Thread[Thread-139,5,main]FAILURE
+Thread[Thread-140,5,main]341 ms
+Thread[Thread-140,5,main]ACA time: 9822380 ns
+Thread[Thread-140,5,main]PENDING
+Thread[Thread-141,5,main]340 ms
+Thread[Thread-141,5,main]ACA time: 34821 ns
+Thread[Thread-141,5,main]FAILURE
+Thread[Thread-142,5,main]339 ms
+Thread[Thread-142,5,main]ACA time: 32368 ns
+Thread[Thread-142,5,main]FAILURE
+Thread[Thread-143,5,main]341 ms
+Thread[Thread-143,5,main]ACA time: 30724 ns
+Thread[Thread-143,5,main]FAILURE
+Thread[Thread-144,5,main]339 ms
+Thread[Thread-144,5,main]ACA time: 30607 ns
+Thread[Thread-144,5,main]FAILURE
+Thread[Thread-145,5,main]346 ms
+Thread[Thread-145,5,main]ACA time: 9500535 ns
+Thread[Thread-145,5,main]PENDING
+Thread[Thread-146,5,main]344 ms
+Thread[Thread-146,5,main]ACA time: 23453 ns
+Thread[Thread-146,5,main]FAILURE
+Thread[Thread-147,5,main]343 ms
+Thread[Thread-147,5,main]ACA time: 32259 ns
+Thread[Thread-147,5,main]FAILURE
+Thread[Thread-148,5,main]343 ms
+Thread[Thread-148,5,main]ACA time: 39929 ns
+Thread[Thread-148,5,main]FAILURE
+Thread[Thread-149,5,main]341 ms
+Thread[Thread-149,5,main]ACA time: 33216 ns
+Thread[Thread-149,5,main]FAILURE
+Thread[Thread-150,5,main]350 ms
+Thread[Thread-150,5,main]ACA time: 10099072 ns
+Thread[Thread-150,5,main]PENDING
+Thread[Thread-151,5,main]350 ms
+Thread[Thread-151,5,main]ACA time: 28540 ns
+Thread[Thread-151,5,main]FAILURE
+Thread[Thread-152,5,main]348 ms
+Thread[Thread-152,5,main]ACA time: 23031 ns
+Thread[Thread-152,5,main]FAILURE
+Thread[Thread-153,5,main]347 ms
+Thread[Thread-153,5,main]ACA time: 52872 ns
+Thread[Thread-153,5,main]FAILURE
+Thread[Thread-154,5,main]347 ms
+Thread[Thread-154,5,main]ACA time: 23263 ns
+Thread[Thread-154,5,main]FAILURE
+Thread[Thread-155,5,main]355 ms
+Thread[Thread-155,5,main]ACA time: 9582705 ns
+Thread[Thread-155,5,main]PENDING
+Thread[Thread-156,5,main]354 ms
+Thread[Thread-156,5,main]ACA time: 31118 ns
+Thread[Thread-156,5,main]FAILURE
+Thread[Thread-157,5,main]354 ms
+Thread[Thread-157,5,main]ACA time: 30071 ns
+Thread[Thread-157,5,main]FAILURE
+Thread[Thread-158,5,main]353 ms
+Thread[Thread-158,5,main]ACA time: 28917 ns
+Thread[Thread-158,5,main]FAILURE
+Thread[Thread-159,5,main]351 ms
+Thread[Thread-159,5,main]ACA time: 35943 ns
+Thread[Thread-159,5,main]FAILURE
+Thread[Thread-160,5,main]360 ms
+Thread[Thread-160,5,main]ACA time: 9614635 ns
+Thread[Thread-160,5,main]PENDING
+Thread[Thread-161,5,main]360 ms
+Thread[Thread-161,5,main]ACA time: 30916 ns
+Thread[Thread-161,5,main]FAILURE
+Thread[Thread-162,5,main]359 ms
+Thread[Thread-162,5,main]ACA time: 31036 ns
+Thread[Thread-162,5,main]FAILURE
+Thread[Thread-163,5,main]357 ms
+Thread[Thread-163,5,main]ACA time: 26184 ns
+Thread[Thread-163,5,main]FAILURE
+Thread[Thread-164,5,main]357 ms
+Thread[Thread-164,5,main]ACA time: 22076 ns
+Thread[Thread-164,5,main]FAILURE
+Thread[Thread-165,5,main]366 ms
+Thread[Thread-165,5,main]ACA time: 9993316 ns
+Thread[Thread-165,5,main]PENDING
+Thread[Thread-166,5,main]365 ms
+Thread[Thread-166,5,main]ACA time: 59837 ns
+Thread[Thread-166,5,main]FAILURE
+Thread[Thread-167,5,main]365 ms
+Thread[Thread-167,5,main]ACA time: 27178 ns
+Thread[Thread-167,5,main]FAILURE
+Thread[Thread-168,5,main]364 ms
+Thread[Thread-168,5,main]ACA time: 31281 ns
+Thread[Thread-168,5,main]FAILURE
+Thread[Thread-169,5,main]363 ms
+Thread[Thread-169,5,main]ACA time: 22782 ns
+Thread[Thread-169,5,main]FAILURE
+Thread[Thread-170,5,main]347 ms
+Thread[Thread-170,5,main]ACA time: 9777029 ns
+Thread[Thread-171,5,main]345 ms
+Thread[Thread-171,5,main]ACA time: 36811 ns
+Thread[Thread-171,5,main]FAILURE
+Thread[Thread-170,5,main]PENDING
+Thread[Thread-172,5,main]345 ms
+Thread[Thread-172,5,main]ACA time: 29969 ns
+Thread[Thread-172,5,main]FAILURE
+Thread[Thread-173,5,main]343 ms
+Thread[Thread-173,5,main]ACA time: 31934 ns
+Thread[Thread-173,5,main]FAILURE
+Thread[Thread-174,5,main]342 ms
+Thread[Thread-174,5,main]ACA time: 40504 ns
+Thread[Thread-174,5,main]FAILURE
+Thread[Thread-175,5,main]352 ms
+Thread[Thread-175,5,main]ACA time: 9917620 ns
+Thread[Thread-175,5,main]PENDING
+Thread[Thread-176,5,main]351 ms
+Thread[Thread-176,5,main]ACA time: 38009 ns
+Thread[Thread-176,5,main]FAILURE
+Thread[Thread-177,5,main]350 ms
+Thread[Thread-177,5,main]ACA time: 33191 ns
+Thread[Thread-177,5,main]FAILURE
+Thread[Thread-178,5,main]350 ms
+Thread[Thread-178,5,main]ACA time: 35289 ns
+Thread[Thread-178,5,main]FAILURE
+Thread[Thread-179,5,main]348 ms
+Thread[Thread-179,5,main]ACA time: 29377 ns
+Thread[Thread-179,5,main]FAILURE
+Thread[Thread-180,5,main]358 ms
+Thread[Thread-180,5,main]ACA time: 10223983 ns
+Thread[Thread-180,5,main]PENDING
+Thread[Thread-181,5,main]358 ms
+Thread[Thread-181,5,main]ACA time: 34752 ns
+Thread[Thread-181,5,main]FAILURE
+Thread[Thread-182,5,main]356 ms
+Thread[Thread-182,5,main]ACA time: 35203 ns
+Thread[Thread-182,5,main]FAILURE
+Thread[Thread-183,5,main]354 ms
+Thread[Thread-183,5,main]ACA time: 31798 ns
+Thread[Thread-183,5,main]FAILURE
+Thread[Thread-184,5,main]353 ms
+Thread[Thread-184,5,main]ACA time: 45706 ns
+Thread[Thread-184,5,main]FAILURE
+Thread[Thread-185,5,main]363 ms
+Thread[Thread-185,5,main]ACA time: 10463908 ns
+Thread[Thread-185,5,main]PENDING
+Thread[Thread-186,5,main]362 ms
+Thread[Thread-186,5,main]ACA time: 34011 ns
+Thread[Thread-186,5,main]FAILURE
+Thread[Thread-187,5,main]361 ms
+Thread[Thread-187,5,main]ACA time: 23482 ns
+Thread[Thread-187,5,main]FAILURE
+Thread[Thread-188,5,main]359 ms
+Thread[Thread-188,5,main]ACA time: 30733 ns
+Thread[Thread-188,5,main]FAILURE
+Thread[Thread-189,5,main]359 ms
+Thread[Thread-189,5,main]ACA time: 28435 ns
+Thread[Thread-189,5,main]FAILURE
+Thread[Thread-190,5,main]369 ms
+Thread[Thread-190,5,main]ACA time: 10558502 ns
+Thread[Thread-190,5,main]PENDING
+Thread[Thread-191,5,main]369 ms
+Thread[Thread-191,5,main]ACA time: 36632 ns
+Thread[Thread-191,5,main]FAILURE
+Thread[Thread-192,5,main]367 ms
+Thread[Thread-192,5,main]ACA time: 28094 ns
+Thread[Thread-192,5,main]FAILURE
+Thread[Thread-194,5,main]364 ms
+Thread[Thread-194,5,main]ACA time: 32454 ns
+Thread[Thread-194,5,main]FAILURE
+Thread[Thread-193,5,main]366 ms
+Thread[Thread-193,5,main]ACA time: 26713 ns
+Thread[Thread-193,5,main]FAILURE
+Thread[Thread-195,5,main]374 ms
+Thread[Thread-195,5,main]ACA time: 10982102 ns
+Thread[Thread-195,5,main]PENDING
+Thread[Thread-196,5,main]373 ms
+Thread[Thread-196,5,main]ACA time: 35359 ns
+Thread[Thread-196,5,main]FAILURE
+Thread[Thread-197,5,main]373 ms
+Thread[Thread-197,5,main]ACA time: 26504 ns
+Thread[Thread-197,5,main]FAILURE
+Thread[Thread-198,5,main]372 ms
+Thread[Thread-198,5,main]ACA time: 34624 ns
+Thread[Thread-198,5,main]FAILURE
+Thread[Thread-199,5,main]371 ms
+Thread[Thread-199,5,main]ACA time: 30023 ns
+Thread[Thread-199,5,main]FAILURE

@@ -1,0 +1,56 @@
+/*
+Copyright 2019 The Alcor Authors.
+
+Licensed under the Apache License, Version 2.0 (the "License");
+        you may not use this file except in compliance with the License.
+        You may obtain a copy of the License at
+
+        http://www.apache.org/licenses/LICENSE-2.0
+
+        Unless required by applicable law or agreed to in writing, software
+        distributed under the License is distributed on an "AS IS" BASIS,
+        WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+        See the License for the specific language governing permissions and
+        limitations under the License.
+*/
+
+syntax = "proto3";
+
+package alcor.schema;
+
+option java_package = "com.futurewei.alcor.schema";
+option java_outer_classname = "Subnet";
+
+import "common.proto";
+
+message SubnetConfiguration {
+    uint32 format_version = 1;
+    uint32 revision_number = 2;
+
+    string request_id = 3;
+    string id = 4;
+    NetworkType network_type = 5;
+    string project_id = 6;
+    string vpc_id = 7;
+    string name = 8;
+    string cidr = 9;
+
+    // TODO: change to uint32 but that would require change in DPM
+    uint64 tunnel_id = 10;
+
+    message Gateway {
+        string ip_address = 3;
+        string mac_address = 4;
+    }
+
+    Gateway gateway = 11;
+    bool dhcp_enable = 12;
+    string availability_zone = 13;
+    string primary_dns = 14;
+    string secondary_dns = 15;
+}
+
+message SubnetState {
+    OperationType operation_type = 1;
+    SubnetConfiguration configuration = 2;
+}

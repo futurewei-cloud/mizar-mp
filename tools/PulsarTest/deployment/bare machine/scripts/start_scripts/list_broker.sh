@@ -1,0 +1,1 @@
+ssh -oPort=6502 cm@47.92.80.237 './apache-pulsar-2.6.0/bin/pulsar-admin brokers list pulsar-cluster'

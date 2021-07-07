@@ -1,0 +1,25 @@
+{
+  "producerThreadNumber": "3",
+  "consumerThreadNumber": "3",
+  "topicNumberPerThread": "3",
+  "clientIOThreadsNumber": "20",
+
+  "producerUrl": [
+    "pulsar://192.168.1.105:6650"
+  ],
+  "consumerUrl": [
+    "pulsar://192.168.1.105:6650"
+  ],
+  "adminUrl": [
+    "http://192.168.1.105:8080"
+  ],
+
+  "payload-size": "1024",
+  "enableContinueMsg": "false",
+  "msgNumberPerTopic": "100",
+  "createTopicInterval": "1",
+
+  "statsFolderName": "results/standalone",
+  "enableTopicStats": "true",
+  "enableTopicStatsFileLog": "true"
+}
